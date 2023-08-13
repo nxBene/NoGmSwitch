@@ -1,0 +1,1 @@
+title @a actionbar ["",{"text":"Datapack by","color":"white","bold":true},{"text":" ","bold":true},{"text":"nxBene","color":"#5865f2","bold":true}]

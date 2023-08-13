@@ -1,0 +1,2 @@
+execute as @a[gamemode=!survival,team=!GmChange] run tellraw @s ["",{"text":"noGmChange","bold":true}," by ",{"text":"nxBene","clickEvent":{"action":"open_url","value":"https://github.com/nxbene"},"underlined":true,"color":"blue"},"\n\nYou are not allowed to switch your Gamemode! If your are a admin you can click ",{"text":"here","underlined":true,"clickEvent":{"action":"suggest_command","value":"/team join GmChange"}}]
+gamemode survival @a

@@ -1,0 +1,1 @@
+execute as @a[gamemode=!survival,team=!GmChange] run function nogmswitch:gmchanged
