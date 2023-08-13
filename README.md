@@ -11,7 +11,5 @@ Datapack that prevents yourself and other players that have op from cheating in 
 
 After the file is inside the datapack folder you just need to join the world or server and type **/reload**
 
-## Screenshots
-https://media.discordapp.net/attachments/927361868136349756/1140388848300478556/Screenshot_2023-08-13_at_19.26.34.png?width=1824&height=244
-
-
+## How To disable
+![image](https://github.com/nxBene/NoGmSwitch/assets/79057563/c07470db-3bcf-4d1f-9406-241a9a40805f)
